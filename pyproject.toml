@@ -55,7 +55,7 @@ dev = [
     "bump2version==1.0.1",
     "build==1.6.1",
     "twine==7.0.0",
-    "pre-commit==4.6.2",
+    "pre-commit==4.7.0",
     "python-dotenv==1.2.4",
 ]
 
