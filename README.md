@@ -16,6 +16,8 @@ A modern Python client for the [Kanka API](https://app.kanka.io/api-docs/1.0), t
 
 ## Installation
 
+Requires Python 3.12 or newer. CI tests Python 3.12–3.15.
+
 ```bash
 pip install python-kanka
 ```
