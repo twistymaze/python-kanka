@@ -41,7 +41,7 @@ Issues = "https://github.com/twistymaze/python-kanka/issues"
 [dependency-groups]
 docs = [
     "mkdocs==1.6.1",
-    "mkdocs-material==9.7.7",
+    "mkdocs-material==9.8.0",
 ]
 dev = [
     "pytest==9.1.1",
